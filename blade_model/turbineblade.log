@@ -1,0 +1,41 @@
+Info:           Start_Modeler
+Info:     ========================
+Info: 
+Info: =================================================
+Info: Software Information
+Info: 
+Info: PARASOLID Version: 18.0.168
+Info: PSBodyshop Version: 8.0.111
+Info: SOLID EDGE Version: 19.00.02.06
+Info: Log file is written by GENERIC/IGES Library.
+Info: ============================================================
+Info: Iges Write Options
+Info: 
+Info: Export Flavor: None
+Info: ParIg_ConvSolid_Get: FASLE SolidAsFaces 
+Info: ParIg_ConvTrimmedFaces_Get: 1
+Info: ParIg_ConvFreeCurves_Get: 1
+Info: GetStartSection: Comment
+Info: ParIg_EOLcharLenForWrite_Get: 1
+Info: ParIg_WriteUnit_Get: INCH
+Info: ParIg_TransferAttrib_Get: 1
+Info: ParIg_WriteAsSplines_Get: 1
+Info: ParIg_WriteCurvesAsSplines_Get: 1
+Info: ParIg_TransferAttrib_Get: 1
+Info: ============================================================
+Info: Translation Process
+Info: 
+Info: 
+----------------------------IGES WRITE OPTIONS-------------------------------
+ 
+Info: 
+Total No. of Root  Entities   Written: 101
+
+Info: --------------------------------------------------------------------------------
+Info: 
+Info: Translation succeeded
+Info: Number of bodies in the Iges file: 1
+Info: =================================================
+Info: 
+Info:     ========================
+Info:           Stop_Modeler
